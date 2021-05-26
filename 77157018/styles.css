@@ -1,0 +1,36 @@
+.text-field {
+    -fx-background-color: -fx-text-box-border, -fx-background ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-padding: 14;
+    -fx-background-radius: 5px;
+    -fx-font: 16px "Serif";
+    -fx-min-width: 800;
+}
+
+#hbox-custom {
+    -fx-background-radius: 5;
+    -fx-padding: 16;
+    -fx-font: 16px "Serif";
+    -fx-background-color: #d5e3df;
+    -fx-min-width: 800;
+}
+
+
+.button{
+    -fx-background-color: #02b290;
+    -fx-text-fill: white;
+    -fx-background-radius: 16px;
+    -fx-font: 16px "Serif";
+    -fx-padding: 10;
+}
+
+.label{
+    -fx-font: 16px "Serif";
+    -fx-font-weight: bold
+}
+
+.root{
+    -fx-font: 16px "Serif";
+    -fx-background: #d5e3df;
+
+}

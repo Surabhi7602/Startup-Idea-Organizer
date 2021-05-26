@@ -1,0 +1,15 @@
+I have completed all the Extra Credit questions:
+
+1. I have submitted a .txt file with 5 ideas that apply to both students and non-students.
+
+2. I have used ListView to display the ideas in the list on the scene as I submit them. The toString() of that idea gets added to the ListView Pane and once the ideas are added to the file, the pane is cleared.
+
+3. Added a Button to get rid of the selected idea from the ListView. When you select an idea and press the button, it removes the idea from the returned index in the list. 
+
+4. Added a field about the key features of the startup idea and also edited the StartUpIdeaclass to save the field, and edited the toString method.
+
+5. Added audio that plays when buttons are clicked.
+
+6. Added color to the buttons and the text-fields.
+
+7. Added a picture.

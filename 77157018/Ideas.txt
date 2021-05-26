@@ -1,0 +1,45 @@
+1:
+Problem: Booking US visa appointments is a cumbersome process. People need to keep checking the portal on a daily basis to see if interview slots have opened. 
+Target Customer: People applying for student, work, or travel visas to the US.
+Customer Need: 7
+Known People With Problem: 15
+Target Market Size: 10000
+Competitors: Hiring agents to keep checking for openings.
+Key Feature: Make an app that sends notifications when slots from the preferred date and time have opened.
+
+2:
+Problem: There aren’t great online services that allow you to rent clothes.
+Target Customer: People who don’t want to keep buying new clothes often, be it because it does not make sense financially or be it because they won’t wear that outfit too often. 
+Customer Need: 5
+Known People With Problem: 30
+Target Market Size: 5000
+Competitors: Companies like ‘Rent the Runway’. Stores that you need to physically visit to browse through potential rentals will offer competition.
+Key Feature: Web application that will people to browse through available rentals online, will allow them to compare prices from different stores and make bookings.
+
+3:
+Problem: Well-being apps for monitoring different things like nutrition, exercise, sleep, and mental health are all distinct creating the need for an integrated app. They often don’t have an offline aspect to them as well.
+Target Customer: People who would want a single platform to record and monitor lifestyle details. 
+Customer Need: 6
+Known People With Problem: 50
+Target Market Size: 1000
+Competitors: The health app on iPhones offers many of these digital features together.
+Key Feature: Application that allows customer to track many aspects of their lifestyle in one location. Also offers features like live streaming of fitness classes, or group chats where people can positive messages, engage in discussions on mental health.
+
+4:
+Problem: There are very few open office-like spaces that help bring people from different backgrounds together to encourage collaboration and boost productivity.
+Target Customer: People who want to work in a more flexible, less formal, more productive environment.
+Customer Need: 5
+Known People With Problem: 20
+Target Market Size: 500
+Competitors: Companies are starting to adopt in house open-office plans. 
+Key Feature: Places with open, communal workspaces for free-lance workers, or people from different small companies to work in a collaborative environment.
+
+5:
+Problem: There aren’t many services that offer delivery of daily, healthy, freshly-cooked, home-made food 
+Target Customer: People who work in offices or students who, because of health issues or otherwise, prefer to eat nutritious meals made in local home chefs.
+Customer Need: 5
+Known People With Problem: 50
+Target Market Size: 500
+Competitors: Food delivery services that deliver food from local restaurants will be competition.
+Key Feature: Application that allows customers to order only from local home-chefs who use fresh produce, food delivery will be included.
+
